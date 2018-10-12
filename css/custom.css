@@ -1,0 +1,37 @@
+li {
+  margin-bottom: 1.5rem !important;
+  font-weight: 300;
+}
+
+a {
+  color: white !important;
+  text-decoration: none !important;
+}
+
+img {
+  border: none !important;
+}
+
+.caption {
+  font-size: 0.6em !important;
+  background:rgba(0, 0, 0, 0.3);
+  padding: 3px 10px !important;
+}
+
+.dark {
+  color: #333;
+  text-shadow: none !important;
+}
+
+.shadow {
+  text-shadow: 2px 2px 2px #222;
+}
+
+.morespace{
+  margin-bottom: 2.3rem;
+  list-style: none !important;
+}
+
+#indice {
+  font-size: 65% !important;
+}
